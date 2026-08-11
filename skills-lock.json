@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "linkedin-campaign-complete": {
+      "source": "swan-gtm/gtm-skills",
+      "sourceType": "github",
+      "skillPath": "skills/alex-vacca/linkedin-campaign-complete/SKILL.md",
+      "computedHash": "1fb6dcb2d0758bf5fbe1a810bc4c0e5eec3502f16f5a4958b005bbb1906ba0ed"
+    }
+  }
+}
